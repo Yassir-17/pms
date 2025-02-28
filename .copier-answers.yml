@@ -1,4 +1,4 @@
-# Do NOT update manually; changes here will be overwritten by Copier
+# Do NOT update manually; changes here will be overwritten by Copier1
 _commit: v1.29
 _src_path: gh:oca/oca-addons-repo-template
 additional_ruff_rules: []
